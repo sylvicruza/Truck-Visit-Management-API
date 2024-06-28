@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Truck Visit Management.props" />
+</Project>

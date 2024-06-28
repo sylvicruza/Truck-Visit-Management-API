@@ -1,0 +1,442 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\controllers\\visitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\controllers\\visitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\security\\authorizecheckoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\security\\authorizecheckoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\tempkey.jwk||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\tempkey.jwk||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\truck visit management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\truck visit management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\entities\\driverinformationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\entities\\driverinformationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\services\\visitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\services\\visitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\utils\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\utils\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\services\\serviceimpl\\ivisitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\services\\serviceimpl\\ivisitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\repositories\\visitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\repositories\\visitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\repositories\\ivisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\repositories\\ivisitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\exceptions\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\exceptions\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\data\\truckvisitdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\data\\truckvisitdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\entities\\visitrecordentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\entities\\visitrecordentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\dtos\\visitrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\dtos\\visitrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\dtos\\driverinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\dtos\\driverinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\dtos\\activitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\dtos\\activitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\entities\\activityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\entities\\activityentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|c:\\users\\cents\\source\\repos\\truck visit management\\truck visit management\\migrations\\20240627195046_initialdbsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2451428D-871C-45D8-A452-8F1ABA1AC9FA}|Truck Visit Management\\Truck Visit Management.csproj|solutionrelative:truck visit management\\migrations\\20240627195046_initialdbsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tempkey.jwk",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\tempkey.jwk",
+              "RelativeDocumentMoniker": "Truck Visit Management\\tempkey.jwk",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\tempkey.jwk",
+              "RelativeToolTip": "Truck Visit Management\\tempkey.jwk",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-28T01:32:31.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\appsettings.json",
+              "RelativeDocumentMoniker": "Truck Visit Management\\appsettings.json",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\appsettings.json",
+              "RelativeToolTip": "Truck Visit Management\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T13:59:45.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Truck Visit Management\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T13:58:47.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Program.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Program.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Program.cs*",
+              "RelativeToolTip": "Truck Visit Management\\Program.cs*",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:59:54.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorizeCheckOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Security\\AuthorizeCheckOperationFilter.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Security\\AuthorizeCheckOperationFilter.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Security\\AuthorizeCheckOperationFilter.cs",
+              "RelativeToolTip": "Truck Visit Management\\Security\\AuthorizeCheckOperationFilter.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:13:52.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisitsController.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Controllers\\VisitsController.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Controllers\\VisitsController.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Controllers\\VisitsController.cs",
+              "RelativeToolTip": "Truck Visit Management\\Controllers\\VisitsController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:26:24.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Truck Visit Management.csproj",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Truck Visit Management.csproj",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Truck Visit Management.csproj",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Truck Visit Management.csproj",
+              "RelativeToolTip": "Truck Visit Management\\Truck Visit Management.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-27T19:12:58.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240627195046_InitialDBSetUp.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Migrations\\20240627195046_InitialDBSetUp.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Migrations\\20240627195046_InitialDBSetUp.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Migrations\\20240627195046_InitialDBSetUp.cs",
+              "RelativeToolTip": "Truck Visit Management\\Migrations\\20240627195046_InitialDBSetUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:50:47.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Truck Visit Management\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:37:06.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DriverInformationEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Entities\\DriverInformationEntity.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Entities\\DriverInformationEntity.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Entities\\DriverInformationEntity.cs",
+              "RelativeToolTip": "Truck Visit Management\\Entities\\DriverInformationEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:14:55.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\WeatherForecast.cs",
+              "RelativeToolTip": "Truck Visit Management\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:00:12.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Truck Visit Management\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:58:31.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IVisitService.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Services\\ServiceImpl\\IVisitService.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Services\\ServiceImpl\\IVisitService.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Services\\ServiceImpl\\IVisitService.cs",
+              "RelativeToolTip": "Truck Visit Management\\Services\\ServiceImpl\\IVisitService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:08:00.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VisitService.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Services\\VisitService.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Services\\VisitService.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Services\\VisitService.cs",
+              "RelativeToolTip": "Truck Visit Management\\Services\\VisitService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:09:27.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Utils\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Utils\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Utils\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Truck Visit Management\\Utils\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:10:33.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VisitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Repositories\\VisitRepository.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Repositories\\VisitRepository.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Repositories\\VisitRepository.cs",
+              "RelativeToolTip": "Truck Visit Management\\Repositories\\VisitRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:00:50.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IVisitRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Repositories\\IVisitRepository.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Repositories\\IVisitRepository.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Repositories\\IVisitRepository.cs",
+              "RelativeToolTip": "Truck Visit Management\\Repositories\\IVisitRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:57:36.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "Truck Visit Management\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:39:44.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Exceptions\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Exceptions\\ErrorResponse.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Exceptions\\ErrorResponse.cs",
+              "RelativeToolTip": "Truck Visit Management\\Exceptions\\ErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:35:28.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Exceptions\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Truck Visit Management\\Exceptions\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwBAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:33:31.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DriverInformationDto.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Dtos\\DriverInformationDto.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Dtos\\DriverInformationDto.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Dtos\\DriverInformationDto.cs",
+              "RelativeToolTip": "Truck Visit Management\\Dtos\\DriverInformationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:33:59.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VisitRecordDto.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Dtos\\VisitRecordDto.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Dtos\\VisitRecordDto.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Dtos\\VisitRecordDto.cs",
+              "RelativeToolTip": "Truck Visit Management\\Dtos\\VisitRecordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:32:34.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TruckVisitDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Data\\TruckVisitDbContext.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Data\\TruckVisitDbContext.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Data\\TruckVisitDbContext.cs",
+              "RelativeToolTip": "Truck Visit Management\\Data\\TruckVisitDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:34:52.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VisitRecordEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Entities\\VisitRecordEntity.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Entities\\VisitRecordEntity.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Entities\\VisitRecordEntity.cs",
+              "RelativeToolTip": "Truck Visit Management\\Entities\\VisitRecordEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:12:09.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ActivityDto.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Dtos\\ActivityDto.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Dtos\\ActivityDto.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Dtos\\ActivityDto.cs",
+              "RelativeToolTip": "Truck Visit Management\\Dtos\\ActivityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:33:51.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ActivityEntity.cs",
+              "DocumentMoniker": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Entities\\ActivityEntity.cs",
+              "RelativeDocumentMoniker": "Truck Visit Management\\Entities\\ActivityEntity.cs",
+              "ToolTip": "C:\\Users\\cents\\source\\repos\\Truck Visit Management\\Truck Visit Management\\Entities\\ActivityEntity.cs",
+              "RelativeToolTip": "Truck Visit Management\\Entities\\ActivityEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:14:15.901Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
