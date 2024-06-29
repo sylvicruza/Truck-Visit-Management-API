@@ -257,3 +257,10 @@ C:\Users\cents\source\repos\Truck Visit Management\Truck Visit Management\bin\De
 C:\Users\cents\source\repos\Truck Visit Management\Truck Visit Management\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\cents\source\repos\Truck Visit Management\Truck Visit Management\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\cents\source\repos\Truck Visit Management\Truck Visit Management\bin\Debug\net8.0\keys\is-signing-key-720855A5C29310523C9B8936104E34FB.json
+C:\Users\cents\source\repos\Truck Visit Management\Truck Visit Management\obj\Debug\net8.0\Truck Visit Management.sourcelink.json
+C:\Users\cents\source\repos\Truck Visit Management\Truck Visit Management\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\cents\source\repos\Truck Visit Management\Truck Visit Management\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\cents\source\repos\Truck Visit Management\Truck Visit Management\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\cents\source\repos\Truck Visit Management\Truck Visit Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cents\source\repos\Truck Visit Management\Truck Visit Management\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cents\source\repos\Truck Visit Management\Truck Visit Management\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

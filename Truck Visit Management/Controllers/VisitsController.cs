@@ -1,19 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿
+
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
-using Truck_Visit_Management.Data;
+using System.Data;
 using Truck_Visit_Management.Dtos;
-using Truck_Visit_Management.Entities;
 using Truck_Visit_Management.Services.ServiceImpl;
+
 
 namespace Truck_Visit_Management.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize("Admin", "User")] // Specify roles that can access
     public class VisitsController : ControllerBase
     {
         private readonly IVisitService _visitService;

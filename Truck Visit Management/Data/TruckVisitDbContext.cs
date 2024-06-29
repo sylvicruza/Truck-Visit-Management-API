@@ -31,5 +31,6 @@ namespace Truck_Visit_Management.Data
             modelBuilder.Entity<VisitRecordEntity>()
                 .OwnsOne(v => v.Driver);
         }
+        public DbSet<Truck_Visit_Management.Entities.User> User { get; set; } = default!;
     }
 }
