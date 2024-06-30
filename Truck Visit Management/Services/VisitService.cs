@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Truck_Visit_Management.Dtos;
 using Truck_Visit_Management.Entities;
+using Truck_Visit_Management.Exceptions;
 using Truck_Visit_Management.Repositories;
 using Truck_Visit_Management.Services.ServiceImpl;
 
@@ -17,28 +18,50 @@ namespace Truck_Visit_Management.Services
             _mapper = mapper;
         }
 
-        public async Task<VisitRecordDto> CreateVisitAsync(VisitRecordDto visitRecord)
+        public async Task<VisitRecordResponseDto> CreateVisitAsync(VisitRecordRequestDto visitRecordRequest)
         {
-            var entity = _mapper.Map<VisitRecordEntity>(visitRecord);
+            var validationErrors = visitRecordRequest.Validate();
+            if (validationErrors.Any())
+            {
+                throw new BadRequestException($"Validation errors: {string.Join(", ", validationErrors)}");
+            }
+
+            // Set additional properties like CreatedTime and CreatedBy
+            visitRecordRequest.CreatedTime = DateTime.UtcNow; // Assuming UTC time
+            visitRecordRequest.UpdatedTime = visitRecordRequest.CreatedTime;
+            visitRecordRequest.UpdatedBy = visitRecordRequest.CreatedBy;
+
+            var entity = _mapper.Map<VisitRecordEntity>(visitRecordRequest);
             var createdEntity = await _visitRepository.CreateVisitAsync(entity);
-            return _mapper.Map<VisitRecordDto>(createdEntity);
+            return _mapper.Map<VisitRecordResponseDto>(createdEntity);
         }
 
-        public async Task<IEnumerable<VisitRecordDto>> GetVisitsAsync()
+        public async Task<IEnumerable<VisitRecordResponseDto>> GetVisitsAsync()
         {
             var entities = await _visitRepository.GetVisitsAsync();
-            return _mapper.Map<IEnumerable<VisitRecordDto>>(entities);
+            return _mapper.Map<IEnumerable<VisitRecordResponseDto>>(entities);
         }
 
-        public async Task UpdateVisitStatusAsync(int id, string status)
-        {
-            await _visitRepository.UpdateVisitStatusAsync(id, status);
-        }
-
-        public async Task<VisitRecordDto> GetVisitByIdAsync(int id)
+        public async Task UpdateVisitStatusAsync(int id, string status, string updatedBy)
         {
             var entity = await _visitRepository.GetVisitByIdAsync(id);
-            return _mapper.Map<VisitRecordDto>(entity);
+            if (entity == null)
+            {
+                throw new NotFoundException($"Visit with id {id} not found");
+            }
+
+            entity.Status = status;
+            entity.UpdatedTime = DateTime.UtcNow; // Assuming UTC time
+            entity.UpdatedBy = updatedBy;
+
+            await _visitRepository.UpdateVisitStatusAsync(entity);
+        }
+        
+
+        public async Task<VisitRecordResponseDto> GetVisitByIdAsync(int id)
+        {
+            var entity = await _visitRepository.GetVisitByIdAsync(id);
+            return _mapper.Map<VisitRecordResponseDto>(entity);
         }
     }
 

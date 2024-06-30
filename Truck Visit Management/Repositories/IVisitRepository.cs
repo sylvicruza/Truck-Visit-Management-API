@@ -6,7 +6,7 @@ namespace Truck_Visit_Management.Repositories
     {
         Task<VisitRecordEntity> CreateVisitAsync(VisitRecordEntity visitRecord);
         Task<IEnumerable<VisitRecordEntity>> GetVisitsAsync();
-        Task UpdateVisitStatusAsync(int id, string status);
+        Task UpdateVisitStatusAsync(VisitRecordEntity visitRecord);
         Task<VisitRecordEntity> GetVisitByIdAsync(int id);
     }
 

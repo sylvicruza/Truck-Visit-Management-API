@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Truck Visit Management", "Truck Visit Management\Truck Visit Management.csproj", "{2451428D-871C-45D8-A452-8F1ABA1AC9FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Truck Visit Management", "Truck Visit Management\Truck Visit Management.csproj", "{2451428D-871C-45D8-A452-8F1ABA1AC9FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Truck Visit Management.Tests", "Truck Visit Management.Tests\Truck Visit Management.Tests.csproj", "{097EB95A-5536-4DA2-AA22-FB73CC9968D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2451428D-871C-45D8-A452-8F1ABA1AC9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2451428D-871C-45D8-A452-8F1ABA1AC9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2451428D-871C-45D8-A452-8F1ABA1AC9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{097EB95A-5536-4DA2-AA22-FB73CC9968D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097EB95A-5536-4DA2-AA22-FB73CC9968D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097EB95A-5536-4DA2-AA22-FB73CC9968D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097EB95A-5536-4DA2-AA22-FB73CC9968D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

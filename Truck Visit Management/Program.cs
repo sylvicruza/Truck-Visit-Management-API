@@ -11,8 +11,8 @@ using System.Collections.Generic;
 using System.Reflection;
 using System.Text;
 using Truck_Visit_Management.Data;
-using Truck_Visit_Management.Dtos;
 using Truck_Visit_Management.Exceptions;
+using Truck_Visit_Management.Helpers;
 using Truck_Visit_Management.Repositories;
 using Truck_Visit_Management.Security;
 using Truck_Visit_Management.Services;
@@ -29,11 +29,14 @@ builder.Services.AddControllers();
 builder.Services.AddScoped<IVisitRepository, VisitRepository>();
 builder.Services.AddScoped<IVisitService, VisitService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IJwtUtils, JwtUtils>();
 
 builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSettings"));
 
 builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
+builder.Services.AddHttpContextAccessor();
+
 
 builder.Services.AddCors(options =>
 {

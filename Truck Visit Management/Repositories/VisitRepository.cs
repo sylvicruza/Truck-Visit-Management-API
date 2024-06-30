@@ -16,7 +16,6 @@ namespace Truck_Visit_Management.Repositories
 
         public async Task<VisitRecordEntity> CreateVisitAsync(VisitRecordEntity visitRecord)
         {
-            visitRecord.CreatedTime = DateTime.UtcNow;
             _context.VisitRecordEntity.Add(visitRecord);
             await _context.SaveChangesAsync();
             return visitRecord;
@@ -26,17 +25,18 @@ namespace Truck_Visit_Management.Repositories
         {
             return await _context.VisitRecordEntity.Include(v => v.Activities).Include(v => v.Driver).ToListAsync();
         }
-
-        public async Task UpdateVisitStatusAsync(int id, string status)
+        public async Task UpdateVisitStatusAsync(VisitRecordEntity visitRecord)
         {
-            var visit = await _context.VisitRecordEntity.FindAsync(id);
+            var visit = await _context.VisitRecordEntity.FindAsync(visitRecord.Id);
             if (visit == null)
             {
-                throw new NotFoundException($"Visit record with id {id} not found.");
+                throw new NotFoundException($"Visit record with id {visitRecord.Id} not found.");
             }
 
-            visit.Status = status;
+            visit.Status = visitRecord.Status;
             visit.UpdatedTime = DateTime.UtcNow;
+            visit.UpdatedBy = visitRecord.UpdatedBy;
+
             await _context.SaveChangesAsync();
         }
 

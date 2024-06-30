@@ -26,7 +26,11 @@ public class AuthorizeAttribute : Attribute, IAuthorizationFilter
         var user = (User)context.HttpContext.Items["User"];
         if (user == null)
         {
-            context.Result = new JsonResult(new { message = "Unauthorized" }) { StatusCode = StatusCodes.Status401Unauthorized };
+            context.Result = new JsonResult(new { error = "Unauthorized", message = "You are not authorized to access this resource." })
+            {
+                StatusCode = StatusCodes.Status401Unauthorized
+            };
+
             return;
         }
 
@@ -36,7 +40,10 @@ public class AuthorizeAttribute : Attribute, IAuthorizationFilter
             bool hasRole = _roles.Any(role => user.Role.Contains(role));
             if (!hasRole)
             {
-                context.Result = new JsonResult(new { message = "Forbidden" }) { StatusCode = StatusCodes.Status403Forbidden };
+                context.Result = new JsonResult(new { error = "Access Denied", message = "You do not have the required permission to access this resource." })
+                {
+                    StatusCode = StatusCodes.Status403Forbidden
+                };
                 return;
             }
         }

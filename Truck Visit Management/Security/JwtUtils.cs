@@ -5,8 +5,8 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
 using System.Security.Claims;
 using System.Text;
-using Truck_Visit_Management.Dtos;
 using Truck_Visit_Management.Entities;
+using Truck_Visit_Management.Helpers;
 
 public interface IJwtUtils
 {
